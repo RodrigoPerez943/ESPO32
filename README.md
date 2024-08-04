@@ -2,6 +2,8 @@
 
 This repository contains the code for controlling two OLED displays and a rotary encoder using an ESP32. The project utilizes various libraries to interface with the hardware and includes functionality for WiFi connectivity, NTP time synchronization, and integration with the Spotify API.
 
+[![Ver Video](https://i.ibb.co/rfSJVcV/github-ESPO32.png)](https://drive.google.com/file/d/1mFgUo-aFKgUav3_NED-ebNgKQcrPmU-6/view?usp=sharing)
+
 ## Features
 
 - **OLED Display Control:** Uses the Adafruit SSD1306 library to control two 128x64 OLED displays.
